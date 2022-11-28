@@ -196,19 +196,3 @@ def main() -> int:
 
 if __name__ == '__main__':
     main()
-
-# Best themes:
-# Nekopara: Chocola
-# nightfall
-
-# Godot Theme
-# green lite
-# Iceberg
-# Halcyon
-
-
-# Best touhou jazz:
-# Lotus - KA=YA
-# Cracker Holidays
-# Stairway of shooting stars
-
